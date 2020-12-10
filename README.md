@@ -1,5 +1,5 @@
 ## **Description:**
-- The buzzer activates when a flame is detected on specific distance and accelerates the buzzing when distance gets smaller.
+- The buzzer activates when a flame is detected at a specific distance and accelerates the buzzing when distance gets smaller.
 
 
 ## **Parts:**
